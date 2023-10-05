@@ -1,0 +1,8 @@
+this is a cpu
+
+contains 3 instructions (for now)
+
+    * MOVE
+    * COPY
+    * PUTS
+    * LET

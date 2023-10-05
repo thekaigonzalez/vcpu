@@ -1,0 +1,13 @@
+BEGIN
+
+MOVE         // move 1 byte to the stack
+COPY 6       // copy that 1 byte over 6 times
+PUTS 'h'     // add characters to the stack
+PUTS 'e'
+PUTS 'l'
+PUTS 'l'
+PUTS 'o'
+PUTS '\0'
+LET          // make (an attempt?) to print the data sent to the main data pointer
+
+HALT
